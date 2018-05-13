@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+#Vicent Dolz & Radosvet Desislavov Georgiev
 import ast
 import re
 from whoosh.index import open_dir
