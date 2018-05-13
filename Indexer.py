@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#Vicent Dolz & Radosvet Desislavov Georgiev
 import os
 
 from whoosh.index import create_in
